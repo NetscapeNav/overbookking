@@ -5,7 +5,7 @@
 
 **Порядок описания аналитических артефактов:**
 1) Основные объекты продукта
-https://github.com/NetscapeNav/overbookking/blob/main/Desc/Screenshot_20250324_004605_Firefox.jpg
+<img src="https://github.com/NetscapeNav/overbookking/blob/main/Desc/Screenshot_20250324_004605_Firefox.jpg">
 
 > Эти данные позволяют нам сказать о необходимости более точного предсказания поведения пассажиров для использования овербукинга
 
@@ -26,22 +26,3 @@ https://github.com/NetscapeNav/overbookking/blob/main/Desc/Screenshot_20250324_0
 5) Перспективы расширения системы
 
 >Решение может быть использовано для составления рейтинга клиентов. В дальнейшем можно вознаграждать и давать привилегии надёжным пассажирам или ограничивать и вносить в чёрные списки компании ненадёжных.
-
-
-
-**Инструменты для оформления решения**
-> [!NOTE]
-> Для вставки диаграмм/экранных форм используйте HTML-тэг "img". Диграмму нужно загрузить файлом в папку Desc и прописать внутри тэга её название. Формат изображений .png, .img/
-> Пример вставки диаграммы
-><p align="center">
->   <img width="200px" src="img.png" alt="qr"/>
-></p>
-> Для создания и оформления таблиц используйте документацию - https://docs.github.com/ru/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
->
-> Пример таблицы https://github.com/s7-ai-wings/template-artifact/blob/main/Idea/README.md
->
->  Другие возможности оформления md-страниц в Github - https://docs.github.com/ru/get-started
-
-
-
-
